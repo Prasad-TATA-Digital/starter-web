@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 showing how to use Git and Github together.
 Adding a line for rebasing example 
-
+more changes from myfeature branch tooo....
 	
 ## Introduction 
 
