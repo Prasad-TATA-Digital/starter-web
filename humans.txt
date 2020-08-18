@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Prasad Shekokar    t_prasad.shekokar@tatadigital.com    @prasad
 
 # THANKS
 
