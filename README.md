@@ -31,3 +31,4 @@ for review
 ###Copyright
 
 2020 Git.Training
+Allright reserves
